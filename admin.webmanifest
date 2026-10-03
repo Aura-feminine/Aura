@@ -1,0 +1,17 @@
+{
+  "name": "Aura Féminine — Administration",
+  "short_name": "Aura Admin",
+  "description": "Administration de la boutique Aura Féminine",
+  "start_url": "./admin.html#dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1d1016",
+  "theme_color": "#2b1720",
+  "lang": "fr",
+  "icons": [
+    { "src": "icons/admin-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/admin-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/admin-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin.html
+# Remplacez par l'adresse de votre site après avoir généré le sitemap (Admin > SEO)
+# Sitemap: https://www.votre-boutique.dz/sitemap.xml
